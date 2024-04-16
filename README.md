@@ -5,4 +5,4 @@ Navigate to the folder and run
 ```python
 python -s -m pip install -r requirements.txt
 ```
-This could be helpful to manage your Python environment.
+This could be helpful for you to manage your python environment.
